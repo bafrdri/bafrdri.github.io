@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bafrdri.github.io/sitemap/sitemap.txt
